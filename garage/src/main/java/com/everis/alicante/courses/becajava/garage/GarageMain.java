@@ -14,6 +14,7 @@ public class GarageMain {
      */
     public static void main(String... args) throws Exception {
         GarageMenu.getInstance().start();
+        //hola que tal :)
     }
 
 
